@@ -1,0 +1,22 @@
+{
+  "wheel_id": 538,
+  "structure": "umbrella",
+  "slug": "noosafencing-150",
+  "project": "fencing-contractors-noosa-red-flags-30b525568d21e6600b494970",
+  "parent_t1_ref": "noosafencing-005",
+  "node_role": "buffer",
+  "money_target": "noosafencing.com.au",
+  "primary_kw": "fencing contractors noosa red flags",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/fencing-contractors-noosa-red-flags-30b525568d21e6600b494970/",
+  "tier": "T2",
+  "writeback_nonce": "54a2a3d5abfb2e32",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/fencing-contractors-noosa/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
